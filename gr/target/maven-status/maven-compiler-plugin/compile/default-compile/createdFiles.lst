@@ -1,0 +1,12 @@
+com\promo\grammarrules\models\Excercise.class
+com\promo\grammarrules\port\GrammarRuleRepository.class
+com\promo\grammarrules\service\ExerciseService.class
+com\promo\grammarrules\config\JpaConfig.class
+com\promo\grammarrules\service\GrammarRuleService.class
+com\promo\grammarrules\port\ExcerciseRepository.class
+com\promo\grammarrules\controller\ExcerciseController.class
+com\promo\grammarrules\controller\GrammarRuleController.class
+com\promo\grammarrules\GrammarRulesApplication.class
+com\promo\grammarrules\models\GrammarRule.class
+com\promo\grammarrules\config\ControllerConfig.class
+com\promo\grammarrules\config\SwaggerConfig.class
